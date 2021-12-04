@@ -1,3 +1,7 @@
 Hola grupo 96
 Esto lo cambie en la maquina 2
+<<<<<<< HEAD
 Hola de maquina 2
+=======
+Hola de maquina 1
+>>>>>>> acff9c302d844b5235de8436b168223e36176d63
